@@ -21,6 +21,7 @@ def find_the_cheese(cheese_type)# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheese_types.find do |val|
+    if val == "gouda"
     val
   end
 end
