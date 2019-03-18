@@ -24,4 +24,5 @@ def find_the_cheese(cheese_type)# code an argument here
     if val == "gouda"
     val
   end
+  end
 end
